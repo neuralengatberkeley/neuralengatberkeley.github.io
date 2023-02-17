@@ -1,14 +1,28 @@
 <div class="row g-5 mb-5">
+  <h3 class="fw-bold border-bottom pb-3 mb-5">Publications </h3>
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">In progress...</h3>
+      <ul>
+        {% for item in site.data.publications.in_progress %}
+        <li>{{item.name}} <p><a href="{{ item.url }}">{{ item.doi }}</a></p></li>
+        {% endfor %}
+      </ul>  
+  </div>
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-    {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-      {% endfor %}
-    {% endif %}
+      <ul>
+        {% for item in site.data.publications.pubs %}
+          <li>{{item.name}} <b><i>{{item.journal}}</b></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
+        {% endfor %}
+      </ul>
   </div>
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Prior work</h3>
+      <ul>
+        {% for item in site.data.publications.old_pubs %}
+          <li>{{item.name}} <b><i>{{item.journal}}</b></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
+        {% endfor %}
+      </ul>
+
+
 </div>

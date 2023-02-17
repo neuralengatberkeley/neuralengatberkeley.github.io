@@ -1,18 +1,26 @@
 menu:
-- {name: 'research', url: '/research'}
-- {name: 'publications', url: '/publications'}
-- {name: 'team', url: '/team'}
-- {name: 'resources', url: '/resources'}
-- {name: 'contact', url: '/contact'}
-- {name: 'join', url: '/join'}
+- {name: 'Research', url: '/research'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Team', url: '/team'}
+# - {name: 'Resources', url: '/resources'}
+# - {name: 'Contact', url: '/contact'}
+# - {name: 'Join', url: '/join'}
 
 people:
-- {name: 'Preeya Khanna', title: 'Assistant Professor', department: 'Electrical Engineering & Computer Sciences', institution: 'Helen Wills Neuroscience Institute', institution_address: '', phone: '', email: 'pkhanna at berkeley dot edu', office: '', image: 'assets/img/primary-investigator.jpg', url: 'preeya'}
-- {name: 'You?', title: '', department: '', institution: '', institution_address: '', phone: '', email: '', office: '', image: 'assets/img/lab-technician.jpg', url: 'you'}
+- {name: 'Preeya Khanna', title: 'Assistant Professor', position: 'PI', 
+  department: 'Electrical Engineering & Computer Sciences', 
+  institution: 'Helen Wills Neuroscience Institute', 
+  email: 'pkhanna at berkeley dot edu', 
+  image: 'assets/img/preeya.jpg', 
+  research_interests: 'sensorimotor control and neural engineering',
+  url: 'preeya'}
+
+- {name: 'You?', position: ' ', research_interests: ' ', 
+  image: 'assets/img/you.jpg', url: 'you'}
 
 social:
 - {icon: 'github', link: 'https://github.com/neuralengatberkeley'}
 - {icon: 'twitter', link: 'https://twitter.com/prekhanna'}
 
 contacts:
-- {name: 'Preeya Khanna', title: 'Assistant Professor', department: 'Electrical Engineering & Computer Sciences', institution: 'Helen Wills Neuroscience Institute', institution_address: '', phone: '', email: 'pkhanna at berkeley dot edu', office: '', image: 'assets/img/contact.jpg'}
+- {name: 'Preeya Khanna', title: 'Assistant Professor', department: '', institution: 'Electrical Engineering & Computer Sciences', institution_address: 'Helen Wills Neuroscience Institute', phone: '', email: 'pkhanna at berkeley dot edu', office: '', image: 'assets/img/contact.jpg'}

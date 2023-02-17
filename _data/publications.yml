@@ -1,10 +1,103 @@
-featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+in_progress:
+- {name: 'Athalye V.R*., Khanna P.*, Gowda S.R., Orsborn A.O., Costa R.M., and Carmena J.M. The brain uses 
+  invariant dynamics to generalize outputs across movements". In review., *co-authors', 
+  journal: 'bioRxiv',
+  url: 'https://www.biorxiv.org/content/10.1101/2021.08.27.457931v1', 
+  doi: '10.1101/2021.08.27.457931'}
 
-index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- {name: 'Khanna P.*, Oppenheim T.*, Tu-Chan A., Abrams G., Ganguly K. Measuring arm
+    and hand joint kinematics to estimate impairment during a functional reach and grasp task
+    in stroke patients." In review., *co-authors', 
+    journal: '', url: '', doi: ''}
+
+pubs: 
+- {name: 'Ganguly K., Khanna P., Morecraft R. J., Lin D. (2022) Modulation of neural co-firing to 
+  enhance network transmission and to improve motor function after stroke', 
+  journal: 'Neuron',
+  url: 'https://pubmed.ncbi.nlm.nih.gov/35926452/', 
+  doi: '10.1016/j.neuron.2022.06.024'}
+
+- {name: 'Kondapavulur S., Lemke S.D., Darevsky D., Guo, L., Khanna P., Ganguly, K. (2022) 
+  Transition from predictable to variable motor cortex and striatal ensemble patterning during behavioral exploration', 
+  journal: 'Nature communications',
+  url: 'https://pubmed.ncbi.nlm.nih.gov/35508447/', 
+  doi: '10.1038/s41467-022-30069-1'}
+
+- {name: 'Khanna P., Totten D., Novik L., Roberts J., Morecraft R.J., Ganguly K. (2021). Low-frequency stimulation 
+  enhances ensemble co-firing and dexterity after stroke',
+  journal: 'Cell', 
+  url: 'https://pubmed.ncbi.nlm.nih.gov/33571430/', 
+  doi: '10.1016/j.cell.2021.01.023'}
+
+- {name: 'Khanna P., and Carmena J.M. (2017). Beta band oscillations in motor cortex reflect neural population 
+  signals that delay movement onset', 
+  journal: 'eLife',
+  url: 'https://elifesciences.org/articles/24573',
+  doi: '10.7554/eLife.24573'}
+
+- {name: 'Khanna P., Swann N. C., Hemptinne C., Miller, A., Starr P. A., and Carmena J.M. (2016). Volitional Control of 
+  Beta Band Power Using the Medtronic Activa PC + S and Nexus-D Streaming', 
+  journal: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering', 
+  url: 'https://ieeexplore.ieee.org/document/7549053', 
+  doi: 10.1109/TNSRE.2016.2597243}
+
+- {name: 'Khanna P., Athalye V.R., Gowda S., Costa R.M., Carmena J.C. (2016) Modeling distinct sources of neural 
+  variability driving neuroprosthetic control', 
+  journal: 'IEEE Engineering in Medicine and Biology Conference, Orlando', 
+  url: 'https://pubmed.ncbi.nlm.nih.gov/28268959/', 
+  doi: 10.1109/EMBC.2016.7591377}
+
+- {name: 'Khanna P., Stanslaski S., Xiao Y., Ahrens T., Bourget D., Swann N., Starr P., Carmena JM.,
+  Denison T. (2015). Enabling Closed-Loop Neurostimulation with Downloadable Firmware
+  Upgrades', 
+  journal: 'IEEE Biomedical Circuits And Systems Conference, Atlanta', 
+  url: 'https://ieeexplore.ieee.org/document/7348348', 
+  doi: '10.1109/BioCAS.2015.7348348'}
+
+- {name: 'Khanna P. and Carmena J.M. (2015). Neural oscillations: beta band activity across motor
+    networks. Current Opinion in Neurobiology, 32: 60-67.', 
+  journal: 'Current Opinion in Neurobiology', 
+  url: 'https://pubmed.ncbi.nlm.nih.gov/25528615/', 
+  doi: '10.1016/j.conb.2014.11.010'}
+
+- {name: 'Bark K., Khanna P., Irwin R., Kapur P., Jax S., Buxbaum L., Kuchenbecker KJ., (2011). Lessons in using 
+  vibrotactile feedback to guide fast arm motions', 
+  journal: 'Proc. IEEE World Haptics Conference', 
+  url: 'https://ieeexplore.ieee.org/document/5945512', 
+  doi: '10.1109/WHC.2011.5945512'}
+
+old_pubs:
+- {name: 'Walters R., Khanna P., Chu M., and Mack M. C. (2016). Developmental changes in
+skin barrier and structure during the first 5 years of life.', 
+  journal: 'Skin Pharmacol Physiol', 
+  url: 'https://pubmed.ncbi.nlm.nih.gov/27161444/', 
+  doi: '10.1159/000444805.'}
+
+- {name: 'Walters R., Khanna P., Hamilton M., Mays D., and Telofski L. (2015). Human cumulative irritation 
+  tests of common preservatives used in personal care products: a retrospective
+  analysis of over 45,000 subjects.',
+  journal: 'Toxicological Sciences',
+  url: 'https://pubmed.ncbi.nlm.nih.gov/26206148/', 
+  doi: '10.1093/toxsci/kfv158'}
+
+- {name: 'Khanna P., Mack M. C., Walczak V. R., Robillard A., Hamilton M. T., Composto J., Martin,
+  K. M., et al. (n.d.). Human ocular response to instillation of surfactant solutions and water
+  across 10, 000 subjects', 
+  journal: 'Proc. ALTEX 8th World Conference', 
+  url: 'https://proceedings.altex.org/data/2012-01/127132_Walters31.pdf', 
+  doi: 'link'}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
