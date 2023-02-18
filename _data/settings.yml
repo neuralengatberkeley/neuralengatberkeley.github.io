@@ -13,10 +13,10 @@ people:
   email: 'pkhanna at berkeley dot edu', 
   image: 'assets/img/preeya.jpg', 
   research_interests: 'sensorimotor control and neural engineering',
-  url: 'preeya'}
+  url: 'preeya_sept2022.pdf'}
 
 - {name: 'You?', position: ' ', research_interests: ' ', 
-  image: 'assets/img/you.jpg', url: 'you'}
+  image: 'assets/img/you.jpg', url: ''}
 
 social:
 - {icon: 'github', link: 'https://github.com/neuralengatberkeley'}
