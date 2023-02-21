@@ -2,6 +2,8 @@ menu:
 - {name: 'Research', url: '/research'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'Team', url: '/team'}
+- {name: 'Join', url: '/join'}
+
 # - {name: 'Resources', url: '/resources'}
 # - {name: 'Contact', url: '/contact'}
 # - {name: 'Join', url: '/join'}
@@ -12,8 +14,8 @@ people:
   institution: 'Helen Wills Neuroscience Institute', 
   email: 'pkhanna at berkeley dot edu', 
   image: 'assets/img/preeya.jpg', 
-  research_interests: 'sensorimotor control and neural engineering',
-  url: 'preeya_sept2022.pdf'}
+  research_interests: 'sensorimotor control<br>and neural engineering',
+  url: 'preeya_cv.pdf'}
 
 - {name: 'You?', position: ' ', research_interests: ' ', 
   image: 'assets/img/you.jpg', url: ''}
