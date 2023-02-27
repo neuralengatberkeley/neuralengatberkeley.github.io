@@ -9,15 +9,20 @@ menu:
 # - {name: 'Join', url: '/join'}
 
 people:
-- {name: 'Preeya Khanna', title: 'Assistant Professor', position: 'PI', 
-  department: 'Electrical Engineering & Computer Sciences', 
-  institution: 'Helen Wills Neuroscience Institute', 
-  email: 'pkhanna at berkeley dot edu', 
-  image: 'assets/img/preeya.jpg', 
-  research_interests: 'sensorimotor control<br>and neural engineering',
-  url: 'preeya_cv.pdf'}
+- {name: 'Preeya Khanna', degrees: ', PhD', 
+   position: 'Principal Investigator',
+   extra_text: 'CV: ', 
+   extra_link: 'preeya_cv.pdf', extra_link_text: 'link',
+   image: 'assets/img/preeya.jpg'} 
+  
+  # title: 'Assistant to the Professor', 
+  # department: 'Electrical Engineering & Computer Sciences', 
+  # institution: 'Helen Wills Neuroscience Institute', 
+  # email: 'pkhanna at berkeley dot edu'}
 
-- {name: 'You?', position: ' ', research_interests: ' ', 
+- {name: 'You?', degrees: '', 
+  position: ' ', 
+  extra_text: ' Check out the "join" tab for opportunities to get involved!',
   image: 'assets/img/you.jpg', url: ''}
 
 social:

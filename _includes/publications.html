@@ -12,7 +12,7 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
       <ul>
         {% for item in site.data.publications.pubs %}
-          <li>{{item.name}} <b><i>{{item.journal}}</b></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
+          <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
         {% endfor %}
       </ul>
   </div>
