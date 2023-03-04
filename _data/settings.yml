@@ -12,7 +12,7 @@ people:
 - {name: 'Preeya Khanna', degrees: ', PhD', 
    position: 'Principal Investigator',
    extra_text: 'CV: ', 
-   extra_link: 'preeya_cv.pdf', extra_link_text: 'link',
+   extra_link: 'team/preeya_cv.pdf', extra_link_text: 'link',
    image: 'assets/img/preeya.jpg'} 
   
   # title: 'Assistant to the Professor', 
