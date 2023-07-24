@@ -1,16 +1,18 @@
 in_progress:
-- {name: 'Athalye V.R*., Khanna P.*, Gowda S.R., Orsborn A.O., Costa R.M., and Carmena J.M. The brain uses 
-  invariant dynamics to generalize outputs across movements". In review., *co-authors', 
-  journal: 'bioRxiv',
-  url: 'https://www.biorxiv.org/content/10.1101/2021.08.27.457931v1', 
-  doi: '10.1101/2021.08.27.457931'}
-
-- {name: 'Khanna P.*, Oppenheim T.*, Tu-Chan A., Abrams G., Ganguly K. Measuring arm
-    and hand joint kinematics to estimate impairment during a functional reach and grasp task
-    in stroke patients." In review., *co-authors', 
-    journal: '', url: '', doi: ''}
 
 pubs: 
+
+- {name: 'Athalye V.R*., Khanna P.*, Gowda S.R., Orsborn A.O., Costa R.M., and Carmena J.M. (2023) Invariant neural dynamics 
+  drive commands to control different movements',
+  journal: 'Current biology',
+  url: 'https://pubmed.ncbi.nlm.nih.gov/37402376/', 
+  doi: '10.1016/j.cub.2023.06.027'}
+
+- {name: 'Khanna P.*, Oppenheim T.*, Tu-Chan A., Abrams G., Ganguly K. (2023) Measuring arm and hand joint kinematics 
+  to estimate impairment during a functional reach and grasp task after stroke',
+  journal: 'Neurorehabilitation and Neural Repair', url: 'https://pubmed.ncbi.nlm.nih.gov/37300318/', 
+  doi: '10.1177/15459683231179173'}
+
 - {name: 'Ganguly K., Khanna P., Morecraft R. J., Lin D. (2022) Modulation of neural co-firing to 
   enhance network transmission and to improve motor function after stroke', 
   journal: 'Neuron',
