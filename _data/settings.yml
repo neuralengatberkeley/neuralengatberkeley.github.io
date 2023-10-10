@@ -2,6 +2,7 @@ menu:
 - {name: 'Research', url: '/research'}
 - {name: 'Publications', url: '/publications'}
 - {name: 'Team', url: '/team'}
+- {name: 'News', url: '/news'}
 - {name: 'Join', url: '/join'}
 
 # - {name: 'Resources', url: '/resources'}
@@ -12,13 +13,24 @@ people:
 - {name: 'Preeya Khanna', degrees: ', PhD', 
    position: 'Principal Investigator',
    extra_text: 'CV: ', 
-   extra_link: 'team/preeya_cv.pdf', extra_link_text: 'link',
+   extra_link: 'team/preeya_CV_Sept2023.pdf', extra_link_text: 'link',
    image: 'assets/img/preeya.jpg'} 
   
   # title: 'Assistant to the Professor', 
   # department: 'Electrical Engineering & Computer Sciences', 
   # institution: 'Helen Wills Neuroscience Institute', 
   # email: 'pkhanna at berkeley dot edu'}
+- {name: 'Woohyun Kim', degrees: ', PhD', 
+   position: 'Postdoctoral researcher',
+   extra_text: 'CV: ', 
+   extra_link: 'team/Woohyun Kim_CV.pdf', extra_link_text: 'link',
+   image: 'assets/img/Woohyun Kim_lab website photo.jpg'} 
+
+- {name: 'Shivam Chaudhary', degrees: ', BSc, MSc', 
+   position: 'Research engineer',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'http://www.shivamc.com/', extra_link_text2: 'link',
+   image: 'assets/img/ShivamLabWebsite.jpg'} 
 
 - {name: 'You?', degrees: '', 
   position: ' ', 
@@ -31,3 +43,15 @@ social:
 
 contacts:
 - {name: 'Preeya Khanna', title: 'Assistant Professor', department: '', institution: 'Electrical Engineering & Computer Sciences', institution_address: 'Helen Wills Neuroscience Institute', phone: '', email: 'pkhanna at berkeley dot edu', office: '', image: 'assets/img/contact.jpg'}
+
+newsreel:
+- {date: 'Oct 7, 2023', description: 'First lab hike in Tilden park', image: 'assets/img/newsreel/2023_labhike.jpg'}
+- {date: 'Oct 2, 2023', description: 'Woohyuns first day in the lab -- welcome Woohyun!', image: 'assets/img/white_box.jpg'}
+- {date: 'Sept 20, 2023', description: 'Preeya wins the Young Investigator Award and gives a talk at the SimCo conference in Chicago. Thanks for the support and the opportunity to speak, SimCo!', image: 'assets/img/newsreel/2023_SimianCollective.jpg'}
+- {date: 'Sept 14, 2023', description: 'Our first lab meeting!', image: 'assets/img/newsreel/2023_labmeeting.jpg'}
+- {date: 'Sept 12, 2023', description: 'Shivams first day in the lab -- welcome Shivam!', image: 'assets/img/newsreel/2023_shivam_day1.jpg'}
+- {date: 'July 26, 2023', description: 'We win a UC Berkeley Spark Grant to support our project on hand kinematics!', image: 'assets/img/newsreel/2023_uc_berkeley_seal.png'}
+- {date: 'July 14, 2023', description: 'Reece starts his rotation in the lab. Welcome Reece!', image: 'assets/img/white_box.jpg'}
+- {date: 'July 3, 2023', description: 'The Sensorimotor Neural Engineering lab opens its doors at UC Berkeley!', image: 'assets/img/newsreel/2023_labopen.png'}
+- {date: 'July 3, 2023', description: 'Preeya and Viveks BMI dynamics paper comes out in Current Biology!', image: 'assets/img/newsreel/2023_currbio.jpg'}
+- {date: 'June 9, 2023', description: 'Preeya and Toms hand kinematics paper comes out in Neurorehabilitation and Neural Repair!', image: 'assets/img/newsreel/2023_nnr.jpg'}
