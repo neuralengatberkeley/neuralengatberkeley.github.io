@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<!-- <h2 class="fw-bold border-bottom pb-3 mb-5">Team</h2> -->
+{% for item in site.data.settings.newsreel %}
+<div class="row g-5 mb-5">
+
+  <div class="col-md-2 my-auto">
+    <center><h4>{{ item.date }}</h4>
+  </div>
+
+  <div class="col-md-7 my-auto">
+    <center><h4>{{ item.description }}</h4>
+  </div>
+
+  <div class="col-md-3 my-auto">
+    <img src="{{ site.github.url }}/{{ item.image }}" width="90%">
+  </div>
+
+</div>
+<div class="row g-5 mb-5">
+    <div class="col-md-3 my-auto">
+    <img src="{{ site.github.url }}/assets/img/white_box.jpg" width="20%">
+  </div>
+
+</div>
+{% endfor %}
+
