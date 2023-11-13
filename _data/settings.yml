@@ -4,6 +4,7 @@ menu:
 - {name: 'Team', url: '/team'}
 - {name: 'News', url: '/news'}
 - {name: 'Join', url: '/join'}
+- {name: 'Participate', url: '/participate'}
 
 # - {name: 'Resources', url: '/resources'}
 # - {name: 'Contact', url: '/contact'}
@@ -51,6 +52,7 @@ contacts:
 - {name: 'Preeya Khanna', title: 'Assistant Professor', department: '', institution: 'Electrical Engineering & Computer Sciences', institution_address: 'Helen Wills Neuroscience Institute', phone: '', email: 'pkhanna at berkeley dot edu', office: '', image: 'assets/img/contact.jpg'}
 
 newsreel:
+- {date: 'Nov 14, 2023', description: 'Preeya and Behrazs work on coordinated cortical-subcortical beta burst dynamcis during recovery from stroke is presented at SFN 2023', image: 'assets/img/newsreel/2023_sfn.jpg'}
 - {date: 'Oct 7, 2023', description: 'First lab hike in Tilden park', image: 'assets/img/newsreel/2023_labhike.jpg'}
 - {date: 'Oct 2, 2023', description: 'Woohyuns first day in the lab -- welcome Woohyun!', image: 'assets/img/white_box.jpg'}
 - {date: 'Sept 20, 2023', description: 'Preeya wins the Young Investigator Award and gives a talk at the SimCo conference in Chicago. Thanks for the support and the opportunity to speak, SimCo!', image: 'assets/img/newsreel/2023_SimianCollective.jpg'}
