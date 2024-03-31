@@ -54,17 +54,25 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/prekhanna'}
 
 contacts:
-- {name: 'Preeya Khanna', title: 'Assistant Professor', department: '', institution: 'Electrical Engineering & Computer Sciences', institution_address: 'Helen Wills Neuroscience Institute', phone: '', email: 'pkhanna at berkeley dot edu', office: '', image: 'assets/img/contact.jpg'}
+- {name: 'Preeya Khanna', title: 'Assistant Professor', department: '', 
+  institution: 'Electrical Engineering & Computer Sciences', institution_address: 'Helen Wills Neuroscience Institute', 
+  phone: '', email: 'pkhanna at berkeley dot edu', office: '', image: 'assets/img/contact.jpg'}
 
-newsreel:
+newsreel: # no apostrophe's in description allowed
+- {date: 'March 29, 2024', description: 'The lab receives a Google Research Scholar award. Thanks Google!', image: 'assets/img/newsreel/2024_google.jpg'}
+- {date: 'March 26, 2024', description: 'Tommy starts his rotation in the lab -- welcome Tommy!', image: 'assets/img/newsreel/join.jpg'}
+- {date: 'Feb 20, 2024', description: 'Preeya is named a 2024 Sloan Research Fellow. Thanks to the Alfred P. Sloan foundation for supporting our work!', image: 'assets/img/newsreel/2024_sloan.jpg'}  
+- {date: 'Feb 19, 2024', description: 'First lab baby born and she is a thinker', image: 'assets/img/newsreel/2024_mayuri.jpg'}
+- {date: 'Dec 14, 2023', description: 'Lab dinner at Viks Chaat in Berkeley!', image: 'assets/img/newsreel/2023_viks.jpg'}
+- {date: 'Nov 27, 2023', description: 'Vidhi starts her rotation in the lab -- welcome Vidhi!', image: 'assets/img/newsreel/join.jpg'}
 - {date: 'Nov 14, 2023', description: 'Preeya and Behrazs work on coordinated cortical-subcortical beta burst dynamcis during recovery from stroke is presented at SFN 2023', image: 'assets/img/newsreel/2023_sfn.jpg'}
-- {date: 'Oct 7, 2023', description: 'First lab hike in Tilden park', image: 'assets/img/newsreel/2023_labhike.jpg'}
-- {date: 'Oct 2, 2023', description: 'Woohyuns first day in the lab -- welcome Woohyun!', image: 'assets/img/white_box.jpg'}
+- {date: 'Oct 7, 2023', description: 'First lab hike in Tilden park, followed by lunch @ Cheeseboard !', image: 'assets/img/newsreel/2023_labhike.jpg'}
+- {date: 'Oct 2, 2023', description: 'Woohyuns first day in the lab -- welcome Woohyun!', image: 'assets/img/newsreel/join.jpg'}
 - {date: 'Sept 20, 2023', description: 'Preeya wins the Young Investigator Award and gives a talk at the SimCo conference in Chicago. Thanks for the support and the opportunity to speak, SimCo!', image: 'assets/img/newsreel/2023_SimianCollective.jpg'}
 - {date: 'Sept 14, 2023', description: 'Our first lab meeting!', image: 'assets/img/newsreel/2023_labmeeting.jpg'}
 - {date: 'Sept 12, 2023', description: 'Shivams first day in the lab -- welcome Shivam!', image: 'assets/img/newsreel/2023_shivam_day1.jpg'}
-- {date: 'July 26, 2023', description: 'We win a UC Berkeley Spark Grant to support our project on hand kinematics! Thanks for the support, Berkeley', image: 'assets/img/newsreel/2023_uc_berkeley_seal.png'}
-- {date: 'July 14, 2023', description: 'Reece starts his rotation in the lab. Welcome Reece!', image: 'assets/img/white_box.jpg'}
-- {date: 'July 3, 2023', description: 'The Sensorimotor Neural Engineering lab opens its doors at UC Berkeley!', image: 'assets/img/newsreel/2023_labopen.png'}
+- {date: 'July 26, 2023', description: 'We win a UC Berkeley Spark Grant to support our project on hand kinematics! Thanks for the support, Berkeley', image: 'assets/img/newsreel/2023_uc_berkeley_seal.jpg'}
+- {date: 'July 14, 2023', description: 'Reece starts his rotation in the lab -- welcome Reece!', image: 'assets/img/newsreel/join.jpg'}
+- {date: 'July 3, 2023', description: 'The Sensorimotor Neural Engineering lab opens its doors at UC Berkeley!', image: 'assets/img/newsreel/2023_labopen.jpg'}
 - {date: 'July 3, 2023', description: 'Preeya and Viveks BMI dynamics paper comes out in Current Biology!', image: 'assets/img/newsreel/2023_currbio.jpg'}
 - {date: 'June 9, 2023', description: 'Preeya and Toms hand kinematics paper comes out in Neurorehabilitation and Neural Repair!', image: 'assets/img/newsreel/2023_nnr.jpg'}
