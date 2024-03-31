@@ -11,9 +11,34 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
       <ul>
-        {% for item in site.data.publications.pubs %}
-          <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
-        {% endfor %}
+        <h5 class="fw-bold">2023</h5>
+          {% for item in site.data.publications.pubs_2023 %}
+            <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
+          {% endfor %}
+        <h5 class="fw-bold">2022</h5>
+          {% for item in site.data.publications.pubs_2022 %}
+            <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
+          {% endfor %}
+        <h5 class="fw-bold">2021</h5>
+          {% for item in site.data.publications.pubs_2021 %}
+            <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
+          {% endfor %}
+        <h5 class="fw-bold">2017</h5>
+          {% for item in site.data.publications.pubs_2017 %}
+            <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
+          {% endfor %}
+        <h5 class="fw-bold">2016</h5>
+          {% for item in site.data.publications.pubs_2016 %}
+            <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
+          {% endfor %}
+        <h5 class="fw-bold">2015</h5>
+          {% for item in site.data.publications.pubs_2015 %}
+            <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
+          {% endfor %}
+        <h5 class="fw-bold">2011</h5>
+          {% for item in site.data.publications.pubs_2011 %}
+            <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
+          {% endfor %}
       </ul>
   </div>
   <div>

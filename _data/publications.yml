@@ -1,18 +1,19 @@
 in_progress:
 
-pubs: 
+pubs_2023: 
 
 - {name: 'Athalye V.R*., Khanna P.*, Gowda S., Orsborn A.O., Costa R.M., and Carmena J.M. (2023) Invariant neural dynamics 
   drive commands to control different movements',
   journal: 'Current biology',
   url: 'https://pubmed.ncbi.nlm.nih.gov/37402376/', 
-  doi: '10.1016/j.cub.2023.06.027'}
+  doi: '10.1016/j.cub.2023.06.027',}
 
 - {name: 'Khanna P.*, Oppenheim T.*, Tu-Chan A., Abrams G., Ganguly K. (2023) Measuring arm and hand joint kinematics 
   to estimate impairment during a functional reach and grasp task after stroke',
   journal: 'Neurorehabilitation and Neural Repair', url: 'https://pubmed.ncbi.nlm.nih.gov/37300318/', 
   doi: '10.1177/15459683231179173'}
 
+pubs_2022: 
 - {name: 'Ganguly K., Khanna P., Morecraft R. J., Lin D. (2022) Modulation of neural co-firing to 
   enhance network transmission and to improve motor function after stroke', 
   journal: 'Neuron',
@@ -25,30 +26,34 @@ pubs:
   url: 'https://pubmed.ncbi.nlm.nih.gov/35508447/', 
   doi: '10.1038/s41467-022-30069-1'}
 
+pubs_2021: 
 - {name: 'Khanna P., Totten D., Novik L., Roberts J., Morecraft R.J., Ganguly K. (2021). Low-frequency stimulation 
   enhances ensemble co-firing and dexterity after stroke',
   journal: 'Cell', 
   url: 'https://pubmed.ncbi.nlm.nih.gov/33571430/', 
   doi: '10.1016/j.cell.2021.01.023'}
 
+pubs_2017: 
 - {name: 'Khanna P., and Carmena J.M. (2017). Beta band oscillations in motor cortex reflect neural population 
   signals that delay movement onset', 
   journal: 'eLife',
   url: 'https://elifesciences.org/articles/24573',
   doi: '10.7554/eLife.24573'}
 
-- {name: 'Khanna P., Swann N. C., Hemptinne C., Miller, A., Starr P. A., and Carmena J.M. (2016). Volitional Control of 
-  Beta Band Power Using the Medtronic Activa PC + S and Nexus-D Streaming', 
+- {name: 'Khanna P., Swann N. C., Hemptinne C., Miller, A., Starr P. A., and Carmena J.M. (2017). Neurofeedback Control 
+  in Parkinsonian Patients Using Electrocorticography Signals Accessed Wirelessly With a Chronic, Fully Implanted Device', 
   journal: 'IEEE Transactions on Neural Systems and Rehabilitation Engineering', 
   url: 'https://ieeexplore.ieee.org/document/7549053', 
   doi: 10.1109/TNSRE.2016.2597243}
 
+pubs_2016: 
 - {name: 'Khanna P., Athalye V.R., Gowda S., Costa R.M., Carmena J.C. (2016) Modeling distinct sources of neural 
   variability driving neuroprosthetic control', 
   journal: 'IEEE Engineering in Medicine and Biology Conference, Orlando', 
   url: 'https://pubmed.ncbi.nlm.nih.gov/28268959/', 
   doi: 10.1109/EMBC.2016.7591377}
 
+pubs_2015:
 - {name: 'Khanna P., Stanslaski S., Xiao Y., Ahrens T., Bourget D., Swann N., Starr P., Carmena JM.,
   Denison T. (2015). Enabling Closed-Loop Neurostimulation with Downloadable Firmware
   Upgrades', 
@@ -62,6 +67,7 @@ pubs:
   url: 'https://pubmed.ncbi.nlm.nih.gov/25528615/', 
   doi: '10.1016/j.conb.2014.11.010'}
 
+pubs_2011:
 - {name: 'Bark K., Khanna P., Irwin R., Kapur P., Jax S., Buxbaum L., Kuchenbecker KJ., (2011). Lessons in using 
   vibrotactile feedback to guide fast arm motions', 
   journal: 'Proc. IEEE World Haptics Conference', 
