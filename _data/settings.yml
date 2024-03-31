@@ -33,16 +33,21 @@ people:
    extra_link2: 'http://www.shivamc.com/', extra_link_text2: 'link',
    image: 'assets/img/ShivamLabWebsite.jpg'} 
 
-- {name: 'Reece Huff', degrees: ', BSc, MSc', 
-   position: 'Graduate student',
-   extra_text2: 'Personal website: ', 
-   extra_link2: 'https://reecehuff.com/', extra_link_text2: 'link',
-   image: 'assets/img/reece_profile.png'} 
-
 - {name: 'You?', degrees: '', 
   position: ' ', 
   extra_text: ' Check out the "join" tab for opportunities to get involved!',
   image: 'assets/img/you.jpg', url: ''}
+
+alumni:
+- {name: 'Reece Huff', degrees: ', BSc, MSc', 
+   position: 'Graduate student',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'https://reecehuff.com/', extra_link_text2: 'link',
+   image: 'assets/img/reece_profile.png',
+   role: 'graduate rotation student', 
+   duration: July - Sept 2023,
+   next: PhD in Machine learning @ UC Berkeley } 
+
 
 social:
 - {icon: 'github', link: 'https://github.com/neuralengatberkeley'}

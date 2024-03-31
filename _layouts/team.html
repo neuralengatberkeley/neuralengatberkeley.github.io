@@ -20,3 +20,15 @@ layout: default
 </div>
 {% endfor %}
 
+<div>
+  <h3 class="fw-bold border-bottom pb-3 mb-5">Alumni</h3>
+    <ul>
+      {% for person in site.data.settings.alumni %}
+        <li>{{ person.name }} {{ person.degrees }} , {{person.role}}, {{person.duration}} <br>
+          Next: {{person.next}},
+          {{ person.extra_text }} <a href="{{ site.github.url }}/{{ person.extra_link }}" > {{person.extra_link_text}}</a>
+          {{ person.extra_text2 }} <a href="{{ person.extra_link2}}" > {{person.extra_link_text2}}</a>
+        </li>
+      {% endfor %}
+    </ul>
+</div>
