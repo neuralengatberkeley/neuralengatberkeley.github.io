@@ -60,7 +60,7 @@ contacts:
 
 newsreel: # no apostrophe's in description allowed
 - {date: 'April 9, 2024', description: 'Lab lunch in the sun :) ', image: 'assets/img/newsreel/2024_lablunch.jpg'}
-- {date: 'April 1, 2024', description: 'The lab receives the R00 part of the NIH BRAIN initiative K99/R00', image: 'assets/img/newsreel/nih.jpg'}
+- {date: 'April 1, 2024', description: 'The lab receives the R00 part of the NIH BRAIN initiative K99/R00!', image: 'assets/img/newsreel/2024_brainr00.png'}
 - {date: 'March 29, 2024', description: 'The lab receives a Google Research Scholar award. Thanks Google!', image: 'assets/img/newsreel/2024_google.jpg'}
 - {date: 'March 26, 2024', description: 'Tommy starts his rotation in the lab -- welcome Tommy!', image: 'assets/img/newsreel/join.jpg'}
 - {date: 'Feb 20, 2024', description: 'Preeya is named a 2024 Sloan Research Fellow. Thanks to the Alfred P. Sloan foundation for supporting our work!', image: 'assets/img/newsreel/2024_sloan.jpg'}  
