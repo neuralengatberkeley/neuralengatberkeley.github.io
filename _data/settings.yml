@@ -24,7 +24,7 @@ people:
 - {name: 'Woohyun Kim', degrees: ', PhD', 
    position: 'Postdoctoral researcher',
    extra_text: 'CV: ', 
-   extra_link: 'team/Woohyun Kim_CV.pdf', extra_link_text: 'link',
+   extra_link: 'team/Woohyun Kim_CV.docx .pdf', extra_link_text: 'link',
    image: 'assets/img/Woohyun Kim_lab website photo.jpg'} 
 
 - {name: 'Shivam Chaudhary', degrees: ', BSc, MSc', 
@@ -32,6 +32,25 @@ people:
    extra_text2: 'Personal website: ', 
    extra_link2: 'http://www.shivamc.com/', extra_link_text2: 'link',
    image: 'assets/img/ShivamLabWebsite.jpg'} 
+
+- {name: 'Vidhi Sinha', degrees: ', BSc', 
+   position: 'Neuroscience graduate student',
+   extra_text2: '', 
+   extra_link2: '', extra_link_text2: '',
+   image: 'assets/img/vidhi.png'} 
+
+- {name: 'Yash Kodali', degrees: '', 
+   position: 'Undergrad student researcher',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'https://yashck.github.io/', extra_link_text2: 'link',
+   image: 'assets/img/yash_profile_picture.png'} 
+
+- {name: 'Phil Xie', degrees: '', 
+   position: 'Undergrad student researcher',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'https://www.linkedin.com/in/phil-xie/', extra_link_text2: 'link',
+   image: 'assets/img/phil.png'} 
+
 
 - {name: 'You?', degrees: '', 
   position: ' ', 
@@ -59,14 +78,17 @@ contacts:
   phone: '', email: 'pkhanna at berkeley dot edu', office: '', image: 'assets/img/contact.jpg'}
 
 newsreel: # no apostrophe's in description allowed
+- {date: 'June  2024', description: 'Welcome summer undergrads Yash, Zeyad, Phil and research scholar Tom! ', image: 'assets/img/newsreel/join.jpg'}
+- {date: 'May 21, 2024', description: 'The lab receives a seed grant from the Brain Research Foundation. Thanks BRF!', image: 'assets/img/newsreel/2024_brf.jpeg'}
+- {date: 'May 2, 2024', description: 'Vidhi joins the lab -- welcome Vidhi! ', image: 'assets/img/newsreel/2024_vidhi_joins.jpg'}
 - {date: 'April 9, 2024', description: 'Lab lunch in the sun :) ', image: 'assets/img/newsreel/2024_lablunch.jpg'}
 - {date: 'April 1, 2024', description: 'The lab receives the R00 part of the NIH BRAIN initiative K99/R00!', image: 'assets/img/newsreel/2024_brainr00.png'}
 - {date: 'March 29, 2024', description: 'The lab receives a Google Research Scholar award. Thanks Google!', image: 'assets/img/newsreel/2024_google.jpg'}
-- {date: 'March 26, 2024', description: 'Tommy starts his rotation in the lab -- welcome Tommy!', image: 'assets/img/newsreel/join.jpg'}
+#- {date: 'March 26, 2024', description: 'Tommy starts his rotation in the lab -- welcome Tommy!', image: 'assets/img/newsreel/join.jpg'}
 - {date: 'Feb 20, 2024', description: 'Preeya is named a 2024 Sloan Research Fellow. Thanks to the Alfred P. Sloan foundation for supporting our work!', image: 'assets/img/newsreel/2024_sloan.jpg'}  
 - {date: 'Feb 19, 2024', description: 'First lab baby born and she is a thinker', image: 'assets/img/newsreel/2024_mayuri.jpg'}
 - {date: 'Dec 14, 2023', description: 'Lab dinner at Viks Chaat in Berkeley!', image: 'assets/img/newsreel/2023_viks.jpg'}
-- {date: 'Nov 27, 2023', description: 'Vidhi starts her rotation in the lab -- welcome Vidhi!', image: 'assets/img/newsreel/join.jpg'}
+#- {date: 'Nov 27, 2023', description: 'Vidhi starts her rotation in the lab -- welcome Vidhi!', image: 'assets/img/newsreel/join.jpg'}
 - {date: 'Nov 14, 2023', description: 'Preeya and Behrazs work on coordinated cortical-subcortical beta burst dynamcis during recovery from stroke is presented at SFN 2023', image: 'assets/img/newsreel/2023_sfn.jpg'}
 - {date: 'Oct 7, 2023', description: 'First lab hike in Tilden park, followed by lunch @ Cheeseboard !', image: 'assets/img/newsreel/2023_labhike.jpg'}
 - {date: 'Oct 2, 2023', description: 'Woohyuns first day in the lab -- welcome Woohyun!', image: 'assets/img/newsreel/join.jpg'}
