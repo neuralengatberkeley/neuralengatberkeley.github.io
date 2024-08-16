@@ -39,6 +39,12 @@ people:
    extra_link2: '', extra_link_text2: '',
    image: 'assets/img/vidhi.png'} 
 
+- {name: 'Tom Oppenheim', degrees: ', PhD', 
+   position: 'Visiting scholar',
+   extra_text: 'CV: ', 
+   extra_link: 'team/TomCV New.pdf', extra_link_text: 'link',
+   image: 'assets/img/tom_image v3.png'} 
+
 - {name: 'Yash Kodali', degrees: '', 
    position: 'Undergrad student researcher',
    extra_text2: 'Personal website: ', 
@@ -50,6 +56,12 @@ people:
    extra_text2: 'Personal website: ', 
    extra_link2: 'https://www.linkedin.com/in/phil-xie/', extra_link_text2: 'link',
    image: 'assets/img/phil.png'} 
+
+- {name: 'Zeyad Khokhar', degrees: '', 
+   position: 'Undergrad student researcher',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'https://www.linkedin.com/in/zeyad-khokhar/', extra_link_text2: 'link',
+   image: 'assets/img/zeyad.jpg'} 
 
 
 - {name: 'You?', degrees: '', 
