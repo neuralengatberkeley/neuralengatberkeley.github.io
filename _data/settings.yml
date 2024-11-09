@@ -89,13 +89,19 @@ contacts:
   institution: 'Electrical Engineering & Computer Sciences', institution_address: 'Helen Wills Neuroscience Institute', 
   phone: '', email: 'pkhanna at berkeley dot edu', office: '', image: 'assets/img/contact.jpg'}
 
+
 newsreel: # no apostrophe's in description allowed
+- {date: 'Oct 8, 2024', description: 'The lab recieves a NIH New Innovator Award! Read more here: ', image: 'assets/img/newsreel/2024_dp2.jpg', 
+    link: 'https://cdss.berkeley.edu/news/faculty-computational-biology-and-neuroscience-win-notable-nih-award', link_text: 'read more!'}
+- {date: 'Oct 8, 2024', description: 'First lab poster from Woohyun, Shivam, and Tom presented at Society for Neuroscience in Chicago!', image: 'assets/img/newsreel/2024_sfn.jpg'}
 - {date: 'June  2024', description: 'Welcome summer undergrads Yash, Zeyad, Phil and research scholar Tom! ', image: 'assets/img/newsreel/join.jpg'}
 - {date: 'May 21, 2024', description: 'The lab receives a seed grant from the Brain Research Foundation. Thanks BRF!', image: 'assets/img/newsreel/2024_brf.jpeg'}
 - {date: 'May 2, 2024', description: 'Vidhi joins the lab -- welcome Vidhi! ', image: 'assets/img/newsreel/2024_vidhi_joins.jpg'}
+#- {date: 'May 1, 2024', description: 'The lab recieves a pilot award from Shirley Ryan Ability labs'}
 - {date: 'April 9, 2024', description: 'Lab lunch in the sun :) ', image: 'assets/img/newsreel/2024_lablunch.jpg'}
 - {date: 'April 1, 2024', description: 'The lab receives the R00 part of the NIH BRAIN initiative K99/R00!', image: 'assets/img/newsreel/2024_brainr00.png'}
-- {date: 'March 29, 2024', description: 'The lab receives a Google Research Scholar award. Thanks Google!', image: 'assets/img/newsreel/2024_google.jpg'}
+- {date: 'March 29, 2024', description: 'The lab receives a Google Research Scholar award. Thanks Google!', image: 'assets/img/newsreel/2024_google.jpg', 
+    link: 'https://eecs.berkeley.edu/news/irene-chen-and-preeya-khanna-win-google-research-scholar-awards/', link_text: 'read more!'}
 #- {date: 'March 26, 2024', description: 'Tommy starts his rotation in the lab -- welcome Tommy!', image: 'assets/img/newsreel/join.jpg'}
 - {date: 'Feb 20, 2024', description: 'Preeya is named a 2024 Sloan Research Fellow. Thanks to the Alfred P. Sloan foundation for supporting our work!', image: 'assets/img/newsreel/2024_sloan.jpg'}  
 - {date: 'Feb 19, 2024', description: 'First lab baby born and she is a thinker', image: 'assets/img/newsreel/2024_mayuri.jpg'}
