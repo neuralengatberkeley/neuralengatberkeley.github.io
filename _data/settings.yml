@@ -91,6 +91,7 @@ contacts:
 
 
 newsreel: # no apostrophe's in description allowed
+- {date: 'Nov 2, 2024', description: 'Lab kayaking on the Bay !', image: 'assets/img/newsreel/2024_kayaking.jpg'}
 - {date: 'Oct 8, 2024', description: 'The lab recieves a NIH New Innovator Award!', image: 'assets/img/newsreel/2024_dp2.jpg', 
     link: 'https://cdss.berkeley.edu/news/faculty-computational-biology-and-neuroscience-win-notable-nih-award', link_text: 'read more!'}
 - {date: 'Oct 8, 2024', description: 'First lab poster from Woohyun, Shivam, and Tom presented at Society for Neuroscience in Chicago!', image: 'assets/img/newsreel/2024_sfn.jpg'}
