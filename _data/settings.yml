@@ -91,12 +91,14 @@ contacts:
 
 
 newsreel: # no apostrophe's in description allowed
+- {date: 'Jan 1, 2025', description: 'Brayden joins the lab as a research engineer -- welcome Brayden!', image: 'assets/img/newsreel/join.jpg'}
 - {date: 'Dec 4, 2024', description: 'Preeya gives the EECS Colloquim', image: 'assets/img/newsreel/2024_colloquim.png', 
     link: 'https://www.youtube.com/live/Q0fZwRv33Jg', link_text: 'watch here!'}
 - {date: 'Nov 2, 2024', description: 'Lab kayaking on the Bay !', image: 'assets/img/newsreel/2024_kayaking.jpg'}
 - {date: 'Oct 8, 2024', description: 'The lab recieves a NIH New Innovator Award!', image: 'assets/img/newsreel/2024_dp2.jpg', 
     link: 'https://cdss.berkeley.edu/news/faculty-computational-biology-and-neuroscience-win-notable-nih-award', link_text: 'read more!'}
 - {date: 'Oct 8, 2024', description: 'First lab poster from Woohyun, Shivam, and Tom presented at Society for Neuroscience in Chicago!', image: 'assets/img/newsreel/2024_sfn.jpg'}
+- {date: 'October 2024', description: 'Hanna joins the lab after her rotation -- welcome Hanna! ', image: 'assets/img/newsreel/join.jpg'}
 - {date: 'June  2024', description: 'Welcome summer undergrads Yash, Zeyad, Phil and research scholar Tom! ', image: 'assets/img/newsreel/join.jpg'}
 - {date: 'May 21, 2024', description: 'The lab receives a seed grant from the Brain Research Foundation. Thanks BRF!', image: 'assets/img/newsreel/2024_brf.jpeg'}
 - {date: 'May 2, 2024', description: 'Vidhi joins the lab -- welcome Vidhi! ', image: 'assets/img/newsreel/2024_vidhi_joins.jpg'}
