@@ -1,5 +1,11 @@
 in_progress:
 
+pubs_2025: 
+- {name: 'Griffin, S., Khanna, P., Choi, H., Thiesen, K., Novik, L., Morecraft, R.J., and Ganguly, K. (2025). Ensemble reactivations during brief rest drive fast learning of sequences', 
+  journal: 'Nature', 
+  url: 'https://www.nature.com/articles/s41586-024-08414-9', 
+  doi: '10.1038/s41586-024-08414-9'}
+
 pubs_2023: 
 
 - {name: 'Athalye V.R*., Khanna P.*, Gowda S., Orsborn A.O., Costa R.M., and Carmena J.M. (2023) Invariant neural dynamics 

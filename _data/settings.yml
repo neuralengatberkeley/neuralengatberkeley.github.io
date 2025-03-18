@@ -91,6 +91,8 @@ contacts:
 
 
 newsreel: # no apostrophe's in description allowed
+- {date: 'Dec 4, 2024', description: 'Preeya gives the EECS Colloquim', image: 'assets/img/newsreel/2024_colloquim.png', 
+    link: 'https://www.youtube.com/live/Q0fZwRv33Jg', link_text: 'watch here!'}
 - {date: 'Nov 2, 2024', description: 'Lab kayaking on the Bay !', image: 'assets/img/newsreel/2024_kayaking.jpg'}
 - {date: 'Oct 8, 2024', description: 'The lab recieves a NIH New Innovator Award!', image: 'assets/img/newsreel/2024_dp2.jpg', 
     link: 'https://cdss.berkeley.edu/news/faculty-computational-biology-and-neuroscience-win-notable-nih-award', link_text: 'read more!'}
