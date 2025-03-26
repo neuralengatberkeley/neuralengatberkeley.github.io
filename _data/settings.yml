@@ -63,6 +63,24 @@ people:
    extra_link2: 'https://www.linkedin.com/in/zeyad-khokhar/', extra_link_text2: 'link',
    image: 'assets/img/zeyad.jpg'} 
 
+- {name: 'Hanna Schlegel', degrees: 'BS', 
+   position: 'EECS Graduate student (co-advised with Ali Javey)',
+   extra_text2: '', 
+   extra_link2: '', extra_link_text2: '',
+   image: 'assets/img/hanna.jpeg'}
+
+- {name: 'Haojun Zhuang', degrees: '', 
+   position: 'Undergrad student researcher',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'https://haojunzhuang.github.io/', extra_link_text2: 'link',
+   image: 'assets/img/haojun.jpg'}
+
+- {name: 'Michelle Garcia-Zamudio', degrees: '', 
+   position: 'Undergrad student researcher',
+   extra_text2: '', 
+   extra_link2: '', extra_link_text2: '',
+   image: 'assets/img/michelle.jpg'}
+
 
 - {name: 'You?', degrees: '', 
   position: ' ', 
