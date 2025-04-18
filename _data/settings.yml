@@ -14,7 +14,7 @@ people:
 - {name: 'Preeya Khanna', degrees: ', PhD', 
    position: 'Principal Investigator',
    extra_text: 'CV: ', 
-   extra_link: 'team/preeya_cv.pdf', extra_link_text: 'link',
+   extra_link: 'team/preeya_cv_4_2025.pdf', extra_link_text: 'link',
    image: 'assets/img/preeya.jpg'} 
   
   # title: 'Assistant to the Professor', 
@@ -84,7 +84,7 @@ people:
 - {name: 'Brayden Scarlett', degrees: 'BSE', 
    position: 'Research engineer',
    extra_text: 'CV: ', 
-   extra_link: 'team/brayden.pdf', extra_link_text: 'link',
+   extra_link: 'team/CV_Brayden_Scarlett_Public.pdf', extra_link_text: 'link',
    extra_text2: 'Personal website: ', 
    extra_link2: 'https://www.linkedin.com/in/braydenscarlett/', extra_link_text2: 'link',
    image: 'assets/img/brayden.JPG'}
