@@ -1,4 +1,5 @@
 *.gem
+_site
 .bundle
 .jekyll-cache
 .sass-cache
