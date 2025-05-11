@@ -1,6 +1,11 @@
 in_progress:
+- {name: 'Khanna, P., Farrokhi, B., Choi, H., Griffin, S., Heimbuch, I., Novik, L., Theisen, K., Morrison, J. H., Morecraft, R. J., Ganguly, K. (2025). Separable global and local beta burst dynamics in motor cortex of primates',
+  journal: 'In review',
+  url: 'https://www.biorxiv.org/content/10.1101/2025.05.05.652217v1',
+  doi: '10.1101/2025.05.05.652217'}
 
 pubs_2025: 
+
 - {name: 'Griffin, S., Khanna, P., Choi, H., Thiesen, K., Novik, L., Morecraft, R.J., and Ganguly, K. (2025). Ensemble reactivations during brief rest drive fast learning of sequences', 
   journal: 'Nature', 
   url: 'https://www.nature.com/articles/s41586-024-08414-9', 
