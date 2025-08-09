@@ -117,6 +117,8 @@ contacts:
 
 
 newsreel: # no apostrophe's in description allowed
+- {date: 'August 8, 2025', description: 'Preeyas paper on global vs local beta bursts in sensorimotor cortex during stroke recovery is published!', 
+   image: 'assets/img/newsreel/2025_elife.png', link: 'https://elifesciences.org/reviewed-preprints/107473', link_text: 'link' }
 - {date: 'July 2025', description: 'Lab dinner / lab hotpot!', image: 'assets/img/newsreel/2025_july_social.png' }
 - {date: 'July 7, 2025', description: 'Our lab wins the 2025 Rennie Fund for the Study of Epilepsy -- thanks HWNI!', image: 'assets/img/newsreel/2025_hwni.png', 
    link: 'https://hwni.berkeley.edu/news/preeya-khanna-and-stephan-lammel-win-2025-rennie-fund-study-epilepsy', link_text: 'read more'}
