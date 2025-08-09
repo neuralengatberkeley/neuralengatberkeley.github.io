@@ -1,10 +1,15 @@
 in_progress:
-- {name: 'Khanna, P., Farrokhi, B., Choi, H., Griffin, S., Heimbuch, I., Novik, L., Theisen, K., Morrison, J. H., Morecraft, R. J., Ganguly, K. (2025). Separable global and local beta burst dynamics in motor cortex of primates',
-  journal: 'In review',
-  url: 'https://www.biorxiv.org/content/10.1101/2025.05.05.652217v1',
-  doi: '10.1101/2025.05.05.652217'}
+- {name: 'Khanna, P., Irastorza-Landa, N., Sarasola-Sanz, A.,....Bengoetxea, A., Carmena, J.M., Ramos-Murguialday, A. (2025) A novel brain-machine interface (BMI) system for motor rehabilitation in a severely impaired chronic stroke participant',
+  journal: 'in prep',
+  url: '',
+  doi: ''}
 
 pubs_2025: 
+
+- {name: 'Khanna, P., Farrokhi, B., Choi, H., Griffin, S., Heimbuch, I., Novik, L., Theisen, K., Morrison, J. H., Morecraft, R. J., Ganguly, K. (2025). Separable global and local beta burst dynamics in motor cortex of primates',
+  journal: 'eLife',
+  url: 'https://elifesciences.org/reviewed-preprints/107473',
+  doi: '10.7554/eLife.107473'}
 
 - {name: 'Griffin, S., Khanna, P., Choi, H., Thiesen, K., Novik, L., Morecraft, R.J., and Ganguly, K. (2025). Ensemble reactivations during brief rest drive fast learning of sequences', 
   journal: 'Nature', 

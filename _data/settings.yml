@@ -117,6 +117,10 @@ contacts:
 
 
 newsreel: # no apostrophe's in description allowed
+- {date: 'July 2025', description: 'Lab dinner / lab hotpot!', image: 'assets/img/newsreel/2025_july_social.png' }
+- {date: 'July 7, 2025', description: 'Our lab wins the 2025 Rennie Fund for the Study of Epilepsy -- thanks HWNI!', image: 'assets/img/newsreel/2025_hwni.png', 
+   link: 'https://hwni.berkeley.edu/news/preeya-khanna-and-stephan-lammel-win-2025-rennie-fund-study-epilepsy', link_text: 'read more'}
+- {date: 'June 26, 2025', description: 'Vidhi passes quals! Congrats Vidhi -- first lab PhD candidate!', image: 'assets/img/newsreel/2025_vidhi_quals.jpg'}
 - {date: 'Jan 1, 2025', description: 'Brayden joins the lab as a research engineer -- welcome Brayden!', image: 'assets/img/newsreel/join.jpg'}
 - {date: 'Dec 4, 2024', description: 'Preeya gives the EECS Colloquim', image: 'assets/img/newsreel/2024_colloquium.png', 
     link: 'https://www.youtube.com/live/Q0fZwRv33Jg', link_text: 'watch here!'}
