@@ -1,10 +1,21 @@
 in_progress:
-- {name: 'Khanna, P., Irastorza-Landa, N., Sarasola-Sanz, A.,....Bengoetxea, A., Carmena, J.M., Ramos-Murguialday, A. (2025) A novel brain-machine interface (BMI) system for motor rehabilitation in a severely impaired chronic stroke participant',
-  journal: 'in prep',
-  url: '',
-  doi: ''}
+# - {name: 'Khanna, P., Irastorza-Landa, N., Sarasola-Sanz, A.,....Bengoetxea, A., Carmena, J.M., Ramos-Murguialday, A. (2025) A novel brain-machine interface (BMI) system for motor rehabilitation in a severely impaired chronic stroke participant',
+#   journal: 'in prep',
+#   url: '',
+#   doi: ''}
+
+
+pubs_2025_local:
+- {name: 'Khanna, P., Irastorza-Landa, N., Sarasola-Sanz, A., Miguel, A., Santisteban, L., Chueca, C., Gowda, S., Dangi, S., Pomposo, I., López de Munain, A., McIntyre, J., Ramos, E., Bengoetxea, A., Carmena, J.M., Ramos-Murguialday, A. (2025). A novel brain-machine interface (BMI) system for motor rehabilitation in a severely impaired chronic stroke participant',
+  journal: 'IEEE Neural Engineering Conference', 
+  file_name: 'pdfs/ner2025.pdf', 
+  file_name_text: 'PDF'}
 
 pubs_2025: 
+- {name: 'Choi, H. , Kim, J., Khanna, P., Griffin, S., Novik, L., Morecraft, R. J., Morrison, J. H., Ganguly, K. (2025) Restoration of temporal separability between beta and movement ensemble co-firing with motor recovery',
+  journal: 'Neuron', 
+  url: 'https://www.sciencedirect.com/science/article/pii/S0896627325007019', 
+  doi: 'https://doi.org/10.1016/j.neuron.2025.09.013'}
 
 - {name: 'Khanna, P., Farrokhi, B., Choi, H., Griffin, S., Heimbuch, I., Novik, L., Theisen, K., Morrison, J. H., Morecraft, R. J., Ganguly, K. (2025). Separable global and local beta burst dynamics in motor cortex of primates',
   journal: 'eLife',

@@ -1,18 +1,21 @@
 <div class="row g-5 mb-5">
   <!-- <h3 class="fw-bold border-bottom pb-3 mb-5">Publications </h3> -->
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">In progress</h3>
+    <!-- <h3 class="fw-bold border-bottom pb-3 mb-5">In progress</h3>
       <ul>
         {% for item in site.data.publications.in_progress %}
         <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
         
         {% endfor %}
-      </ul>  
+      </ul>   -->
   </div>
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
       <ul>
         <h5 class="fw-bold">2025</h5>
+          {% for item in site.data.publications.pubs_2025_local %}
+            <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ site.github.url }}/{{ item.file_name }}" > {{item.file_name_text}}</a></li><br>
+          {% endfor %}
           {% for item in site.data.publications.pubs_2025 %}
             <li>{{item.name}} <b><i><u>{{item.journal}}</b></u></i> <a href="{{ item.url }}">{{ item.doi }}</a></li><br>
           {% endfor %}
