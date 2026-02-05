@@ -21,23 +21,18 @@ people:
   # department: 'Electrical Engineering & Computer Sciences', 
   # institution: 'Helen Wills Neuroscience Institute', 
   # email: 'pkhanna at berkeley dot edu'}
+
 - {name: 'Woohyun Kim', degrees: ', PhD', 
    position: 'Postdoctoral researcher',
    extra_text: 'CV: ', 
    extra_link: 'team/Woohyun Kim_CV.docx .pdf', extra_link_text: 'link',
    image: 'assets/img/Woohyun Kim_lab website photo.jpg'} 
 
-- {name: 'Shivam Chaudhary', degrees: ', BSc, MSc', 
-   position: 'Research engineer',
-   extra_text2: 'Personal website: ', 
-   extra_link2: 'http://www.shivamc.com/', extra_link_text2: 'link',
-   image: 'assets/img/ShivamLabWebsite.jpg'} 
-
-- {name: 'Vidhi Sinha', degrees: ', BSc', 
-   position: 'Neuroscience graduate student',
-   extra_text2: '', 
-   extra_link2: '', extra_link_text2: '',
-   image: 'assets/img/vidhi.png'} 
+- {name: 'Natalie Koh', degrees: ', PhD', 
+   position: 'Postdoctoral researcher',
+   extra_text: 'CV: ', 
+   extra_link: 'team/CV_NatalieKoh_Nov25.pdf', extra_link_text: 'link',
+   image: 'assets/img/natalie.png'}
 
 - {name: 'Tom Oppenheim', degrees: ', PhD', 
    position: 'Visiting scholar',
@@ -45,23 +40,11 @@ people:
    extra_link: 'team/TomCV New.pdf', extra_link_text: 'link',
    image: 'assets/img/tom_image v3.png'} 
 
-- {name: 'Yash Kodali', degrees: '', 
-   position: 'Undergrad student researcher',
-   extra_text2: 'Personal website: ', 
-   extra_link2: 'https://yashck.github.io/', extra_link_text2: 'link',
-   image: 'assets/img/yash_profile_picture.png'} 
-
-- {name: 'Phil Xie', degrees: '', 
-   position: 'Undergrad student researcher',
-   extra_text2: 'Personal website: ', 
-   extra_link2: 'https://www.linkedin.com/in/phil-xie/', extra_link_text2: 'link',
-   image: 'assets/img/phil.png'} 
-
-- {name: 'Zeyad Khokhar', degrees: '', 
-   position: 'Undergrad student researcher',
-   extra_text2: 'Personal website: ', 
-   extra_link2: 'https://www.linkedin.com/in/zeyad-khokhar/', extra_link_text2: 'link',
-   image: 'assets/img/zeyad.jpg'} 
+- {name: 'Vidhi Sinha', degrees: ', BSc', 
+   position: 'Neuroscience graduate student',
+   extra_text2: '', 
+   extra_link2: '', extra_link_text2: '',
+   image: 'assets/img/vidhi.png'} 
 
 - {name: 'Hanna Schlegel', degrees: 'BS', 
    position: 'EECS Graduate student (co-advised with Ali Javey)',
@@ -69,17 +52,11 @@ people:
    extra_link2: 'https://www.linkedin.com/in/hschlegel', extra_link_text2: 'link',
    image: 'assets/img/hanna.jpeg'}
 
-- {name: 'Haojun Zhuang', degrees: '', 
-   position: 'Undergrad student researcher',
+- {name: 'Haojun Zhuang', degrees: 'BS', 
+   position: '5th year EECS Masters Student',
    extra_text2: 'Personal website: ', 
    extra_link2: 'https://haojunzhuang.github.io/', extra_link_text2: 'link',
    image: 'assets/img/haojun.jpg'}
-
-- {name: 'Michelle Garcia-Zamudio', degrees: '', 
-   position: 'Undergrad student researcher',
-   extra_text2: '', 
-   extra_link2: '', extra_link_text2: '',
-   image: 'assets/img/michelle.jpg'}
 
 - {name: 'Brayden Scarlett', degrees: 'BSE', 
    position: 'Research engineer',
@@ -89,6 +66,17 @@ people:
    extra_link2: 'https://www.linkedin.com/in/braydenscarlett/', extra_link_text2: 'link',
    image: 'assets/img/brayden.JPG'}
 
+- {name: 'Yash Kodali', degrees: '', 
+   position: 'Undergrad student researcher',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'https://yashck.github.io/', extra_link_text2: 'link',
+   image: 'assets/img/yash_profile_picture.png'} 
+
+- {name: 'Zeyad Khokhar', degrees: '', 
+   position: 'Undergrad student researcher',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'https://www.linkedin.com/in/zeyad-khokhar/', extra_link_text2: 'link',
+   image: 'assets/img/zeyad.jpg'} 
 
 - {name: 'You?', degrees: '', 
   position: ' ', 
@@ -105,6 +93,32 @@ alumni:
    duration: July - Sept 2023,
    next: PhD in Machine learning @ UC Berkeley } 
 
+- {name: 'Shivam Chaudhary', degrees: ', BSc, MSc', 
+   position: 'Research engineer',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'http://www.shivamc.com/', extra_link_text2: 'link',
+   image: 'assets/img/ShivamLabWebsite.jpg',
+   role: 'research engineer',
+   duration: Sept 2023 - Nov 2025,
+   next: PhD in BioE @ Brown University} 
+
+- {name: 'Phil Xie', degrees: 'BS', 
+   position: 'Undergrad student researcher',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'https://www.linkedin.com/in/phil-xie/', extra_link_text2: 'link',
+   image: 'assets/img/phil.png', 
+   role: 'undergrad student researcher',
+   duration: June 2024- Nov 2025',
+   next: 'Engineer @ Science Corp.'} 
+
+- {name: 'Michelle Garcia-Zamudio', degrees: '', 
+   position: 'REP Neuro undergrad student researcher',
+   extra_text2: '', 
+   extra_link2: '', extra_link_text2: '',
+   image: 'assets/img/michelle.jpg', 
+   role: 'REP neuro undergrad student researcher',
+   duration: 'Sept 2024-Nov 2025',
+   next: 'finishing undergrad degree'}
 
 social:
 - {icon: 'github', link: 'https://github.com/neuralengatberkeley'}
@@ -117,6 +131,23 @@ contacts:
 
 
 newsreel: # no apostrophe's in description allowed
+
+- {date: 'Nov 2025', description: 'Many lab departures: Shivam goes to Brown to start a PhD, Phil goes to Science to make science fiction reality. Thank you both so much for your contributions to the lab -- we will miss you!',
+   image: 'assets/img/newsreel/2025_byebye.png'}
+- {date: 'Nov 13, 2025', description: 'Preeya presents at IEEE NER 2025 on the ISMORE project -- paper wins best paper award!', 
+   image: 'assets/img/newsreel/2025_ner.png', 
+   link: 'https://neuralengatberkeley.github.io/pdfs/ner2025.pdf', link_text: 'link to paper!'}
+- {date: 'Oct 1, 2025', description: 'Natalie Koh joins the lab as a postdoc scholar. Welcome Natalie!',
+   image: 'assets/img/newsreel/2025_natalie.png'}
+- {date: 'Sept 30, 2025', description: 'Pizza / boba day :)',
+   image: 'assets/img/newsreel/2025_pizza_boba.png'}
+
+- {date: 'Sept 15, 2025', description: 'Weill Neurohub Next Great Ideas project focused on personalized hand-tracking devices with Chet Moritzs lab at UW is funded! Thanks to the Weill Neurohub!',
+   image: 'assets/img/newsreel/2025_weill.png', link: 'https://www.weillneurohub.org/ourprograms', link_text: 'link'}
+- {date: 'Sept 2, 2025', description: 'Hanna passes EECS prelims! Congrats Hanna!',
+   image: 'assets/img/newsreel/2025_hanna_prelims.png'}
+- {date: 'Sept 1, 2025', description: 'We are part of a new Weill Neurohub Pillars project with UCSF, UW, and UC Berkeley colleagues: Engineering non-invasive therapeutic technologies for stroke and addiction',
+   image: 'assets/img/newsreel/2025_weill.png', link: 'https://www.weillneurohub.org/ourprograms', link_text: 'link'}
 - {date: 'August 8, 2025', description: 'Preeyas paper on global vs local beta bursts in sensorimotor cortex during stroke recovery is published!', 
    image: 'assets/img/newsreel/2025_elife.png', link: 'https://elifesciences.org/reviewed-preprints/107473', link_text: 'link' }
 - {date: 'July 2025', description: 'Lab dinner / lab hotpot!', image: 'assets/img/newsreel/2025_july_social.png' }
