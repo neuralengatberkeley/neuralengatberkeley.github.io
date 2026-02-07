@@ -78,6 +78,12 @@ people:
    extra_link2: 'https://www.linkedin.com/in/zeyad-khokhar/', extra_link_text2: 'link',
    image: 'assets/img/zeyad.jpg'} 
 
+- {name: 'Jaewoong Lee', degrees: '', 
+   position: 'Undergrad student researcher',
+   extra_text: 'CV: ', 
+   extra_link: 'team/Jaewoong_s_CV.pdf', extra_link_text: 'link',
+   image: 'assets/img/jaewoong.jpg'} 
+
 - {name: 'You?', degrees: '', 
   position: ' ', 
   extra_text: ' Check out the "join" tab for opportunities to get involved!',
@@ -141,7 +147,6 @@ newsreel: # no apostrophe's in description allowed
    image: 'assets/img/newsreel/2025_natalie.png'}
 - {date: 'Sept 30, 2025', description: 'Pizza / boba day :)',
    image: 'assets/img/newsreel/2025_pizza_boba.png'}
-
 - {date: 'Sept 15, 2025', description: 'Weill Neurohub Next Great Ideas project focused on personalized hand-tracking devices with Chet Moritzs lab at UW is funded! Thanks to the Weill Neurohub!',
    image: 'assets/img/newsreel/2025_weill.png', link: 'https://www.weillneurohub.org/ourprograms', link_text: 'link'}
 - {date: 'Sept 2, 2025', description: 'Hanna passes EECS prelims! Congrats Hanna!',
