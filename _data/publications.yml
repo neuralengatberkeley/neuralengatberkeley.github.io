@@ -12,7 +12,7 @@ pubs_2026:
   journal: 'Nature Communications',
   url: 'https://www.nature.com/articles/s41467-026-78169-6',
   doi: '10.1038/s41467-026-78169-6'}
-- {name: 'Oppenheim, T., Schlegel, H., Xie, P. Y., Khokhar, Z., Khanna, P. (2026) A Low Cost, Accurate, and Easily Worn E-Skin and IMU Hand Kinematic Measurement System',
+- {name: 'Oppenheim, T.*, Schlegel, H.*, Xie, P. Y.*, Khokhar, Z., Khanna, P. (2026) A Low Cost, Accurate, and Easily Worn E-Skin and IMU Hand Kinematic Measurement System (* indicates equal contribution)',
   journal: 'Sensors', 
   url: 'https://www.mdpi.com/1424-8220/26/15/4795', 
   doi: '10.3390/s26154795'}
