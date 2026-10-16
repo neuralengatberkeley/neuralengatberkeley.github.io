@@ -66,23 +66,29 @@ people:
    extra_link2: 'https://www.linkedin.com/in/braydenscarlett/', extra_link_text2: 'link',
    image: 'assets/img/brayden.JPG'}
 
-- {name: 'Yash Kodali', degrees: '', 
-   position: 'Undergrad student researcher',
-   extra_text2: 'Personal website: ', 
-   extra_link2: 'https://yashck.github.io/', extra_link_text2: 'link',
-   image: 'assets/img/yash_profile_picture.png'} 
-
-- {name: 'Zeyad Khokhar', degrees: '', 
-   position: 'Undergrad student researcher',
-   extra_text2: 'Personal website: ', 
-   extra_link2: 'https://www.linkedin.com/in/zeyad-khokhar/', extra_link_text2: 'link',
-   image: 'assets/img/zeyad.jpg'} 
-
 - {name: 'Jaewoong Lee', degrees: '', 
    position: 'Undergrad student researcher',
    extra_text: 'CV: ', 
    extra_link: 'team/Jaewoong_s_CV.pdf', extra_link_text: 'link',
-   image: 'assets/img/jaewoong.jpg'} 
+   image: 'assets/img/jaewoong.jpg'}
+
+- {name: 'Maithreya Gowda', degrees: '', 
+   position: 'Undergrad student researcher',
+   extra_text: 'CV: ', 
+   extra_link: '', extra_link_text: 'link',
+   image: 'assets/img/you.jpg'}
+
+- {name: 'Sanjana Taware', degrees: '', 
+   position: 'Undergrad student researcher',
+   extra_text: 'CV: ', 
+   extra_link: '', extra_link_text: 'link',
+   image: 'assets/img/you.jpg'}
+
+- {name: 'Ani Iyengar', degrees: '', 
+   position: 'Undergrad student researcher',
+   extra_text: 'CV: ', 
+   extra_link: '', extra_link_text: 'link',
+   image: 'assets/img/you.jpg'} 
 
 - {name: 'You?', degrees: '', 
   position: ' ', 
@@ -126,6 +132,24 @@ alumni:
    duration: 'Sept 2024-Nov 2025',
    next: 'finishing undergrad degree'}
 
+- {name: 'Yash Kodali', degrees: 'BS', 
+   position: 'Undergrad student researcher',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'https://yashck.github.io/', extra_link_text2: 'link',
+   image: 'assets/img/yash_profile_picture.png', 
+   role: 'undergrad student researcher',
+   duration: 'June 2024 - Dec 2025',
+   next: 'AI Hardware Engineer @ Tesla'} 
+
+- {name: 'Zeyad Khokhar', degrees: 'BS', 
+   position: 'Undergrad student researcher',
+   extra_text2: 'Personal website: ', 
+   extra_link2: 'https://www.linkedin.com/in/zeyad-khokhar/', extra_link_text2: 'link',
+   image: 'assets/img/zeyad.jpg', 
+   role: 'undergrad student researcher', 
+   duration: 'June 2024 - May 2026', 
+   next: 'Clinical Associate at Abbott'} 
+
 social:
 - {icon: 'github', link: 'https://github.com/neuralengatberkeley'}
 - {icon: 'twitter', link: 'https://twitter.com/prekhanna'}
@@ -137,7 +161,17 @@ contacts:
 
 
 newsreel: # no apostrophe's in description allowed
-
+- {date: }
+- {date: 'Sept 2026', description: 'Haojun passes the EECS prelims! Congrats Haojun!', image: 'assets/img/newsreel/2026_haojun_prelims.jpg'}
+- {date: 'August 2026', description: 'Our collaborative work with the Arias lab on using carbon-nanotube thin film electrodes for stable, multi-day sEMG is published in Nature Communications! Congrats to all authors!', image: 'assets/img/newsreel/2026_cnts.jpg', link: 'https://www.nature.com/articles/s41467-026-78169-6', link_text: 'link to paper!'}
+- {date: 'August 2026', description: 'Woohyun wins a Weill Award for Translational Scientists in the Neurosciences! Congrats Woohyun!', image: 'assets/img/newsreel/2025_weill.png'}
+- {date: 'August 2026', description: 'Maithreya, Sanjana, and Ani join the lab as undergrad research assistants! Welcome!', image: 'assets/img/newsreel/join.jpg',}
+- {date: 'July 2026', description: 'Preeya is named a 2026 Hellman Faculty fellow! Thank you to the Hellman family for supporting our work!', image: 'assets/img/newsreel/join.jpg', }
+- {date: 'July 2026', description: 'Preeya is awarded the 2026 Rose Hills Innovator grant for developing next-generation brain-machine interfaces!', image: 'assets/img/newsreel/join.jpg', link: 'https://vcresearch.berkeley.edu/rosehillsinnovators', link_text: 'rose hills innovator program'}
+- {date: 'July 2026', description: 'Hanna presents kinematics tracking work at EMBC in Toronto! Congrats Hanna!', image: 'assets/img/newsreel/2026_embc.jpg'}
+- {date: 'July 2026', description: 'Labs first paper on a hand kinematics tracking wearable is published in Sensors! Congrats Tom, Hanna, Phil, Zeyad!', image: 'assets/img/newsreel/2026_comal.jpg', link: 'https://www.mdpi.com/1424-8220/26/15/4795', link_text: 'link to paper!'}
+- {date: 'May 2026', description: 'Haojun commits to the Berkeley EECS PhD program! Congrats Haojun!', image: 'assets/img/newsreel/join.jpg'}
+- {date: 'April 2026', description: 'Beautiful day for kayaking on the Bay!', image: 'assets/img/newsreel/2026_kayaking.jpg'}
 - {date: 'Nov 2025', description: 'Many lab departures: Shivam goes to Brown to start a PhD, Phil goes to Science to make science fiction reality. Thank you both so much for your contributions to the lab -- we will miss you!',
    image: 'assets/img/newsreel/2025_byebye.png'}
 - {date: 'Nov 13, 2025', description: 'Preeya presents at IEEE NER 2025 on the ISMORE project -- paper wins best paper award!', 

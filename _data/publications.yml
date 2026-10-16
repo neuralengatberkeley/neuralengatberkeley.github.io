@@ -4,6 +4,22 @@ in_progress:
 #   url: '',
 #   doi: ''}
 
+pubs_2026: 
+- {name: 'Pandey, A., Vaish, D., Lin, I., Schlegel, H., Khanna, P., Muller, R. (2026) Neural Recording Power Optimization Through Machine Learning Guided Resolution Reconfiguration.',
+  journal:  'Accepted at Nature Biomedical Engineering'
+  }
+- {name: 'Wen, Y., Schlegel, H., Fox, D., Wang, C., Harutyunyan, A., Gao, R., Gao, W., Zhang, Q., Khanna, P., Arias, A., (2026) Multi-day recalibration-free electrophysiology interface based on carbon nanotube thin film dry electrodes', 
+  journal: 'Nature Communications',
+  url: 'https://www.nature.com/articles/s41467-026-78169-6',
+  doi: '10.1038/s41467-026-78169-6'}
+- {name: 'Oppenheim, T., Schlegel, H., Xie, P. Y., Khokhar, Z., Khanna, P. (2026) A Low Cost, Accurate, and Easily Worn E-Skin and IMU Hand Kinematic Measurement System',
+  journal: 'Sensors', 
+  url: 'https://www.mdpi.com/1424-8220/26/15/4795', 
+  doi: '10.3390/s26154795'}
+- {name: 'Aparicio, F., Ghuman, H., Khanna, P., Barati, S., Morecraft, R., Kirst, C., Ganguly, K., (2026) Conserved role of primary motor cortex in the control of prehension in mice and macaques.',
+  journal: 'Cell Reports',
+  url: 'https://www.cell.com/cell-reports/fulltext/S2211-1247(26)00497-3',
+  doi: '10.1016/j.celrep.2026.117419'}
 
 pubs_2025_local:
 - {name: 'Khanna, P., Irastorza-Landa, N., Sarasola-Sanz, A., Miguel, A., Santisteban, L., Chueca, C., Gowda, S., Dangi, S., Pomposo, I., López de Munain, A., McIntyre, J., Ramos, E., Bengoetxea, A., Carmena, J.M., Ramos-Murguialday, A. (2025). A novel brain-machine interface (BMI) system for motor rehabilitation in a severely impaired chronic stroke participant',
